@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>http://example.org/</link>
+    <description>Recent content on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Jul 2019 14:51:12 +0600</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The PNI junior research group is just about to start!</title>
+      <link>http://example.org/blog/pni_start/</link>
+      <pubDate>Tue, 23 Jul 2019 14:51:12 +0600</pubDate>
+      
+      <guid>http://example.org/blog/pni_start/</guid>
+      <description>*** We are hiring! Click for more info! ***
+The Predictive NeuroImaging junior research group is about to start.</description>
+    </item>
+    
+  </channel>
+</rss>
