@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tamas Spisak on PNI</title>
+    <link>https://pni-lab.github.io/tamas-spisak/</link>
+    <description>Recent content in Tamas Spisak on PNI</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://pni-lab.github.io/tamas-spisak/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>

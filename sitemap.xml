@@ -3,48 +3,51 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://pni-lab.github.io/blog/</loc>
     <lastmod>2019-07-23T14:51:12+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/author/tamas-spisak/</loc>
-    <lastmod>2019-07-23T14:51:12+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/author/</loc>
+    <loc>https://pni-lab.github.io/</loc>
     <lastmod>2019-07-23T14:51:12+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/blog/</loc>
-    <lastmod>2019-07-23T14:51:12+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://example.org/blog/pni_start/</loc>
+    <loc>https://pni-lab.github.io/blog/pni_start/</loc>
     <lastmod>2019-07-23T14:51:12+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/author/jamica-jock/</loc>
+    <loc>https://pni-lab.github.io/author/jamica-jock/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/author/somrat/</loc>
+    <loc>https://pni-lab.github.io/author/somrat/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://pni-lab.github.io/author/tamas-spisak/</loc>
+  </url>
+  
+  <url>
+    <loc>https://pni-lab.github.io/author/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://pni-lab.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pni-lab.github.io/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://pni-lab.github.io/tamas-spisak/</loc>
     <priority>0</priority>
   </url>
   
