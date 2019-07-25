@@ -1,2 +1,3 @@
-# lab-website
-Website of the PNI research lab
+# Website of the Predictive Neuroimaging lab.
+
+ *Under construction*
