@@ -6,10 +6,19 @@
     <description>Recent content in Blogs on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 23 Jul 2019 14:51:12 +0600</lastBuildDate>
+    <lastBuildDate>Thu, 22 Aug 2019 14:51:12 +0600</lastBuildDate>
     
 	<atom:link href="https://pni-lab.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>PhD-position Offered</title>
+      <link>https://pni-lab.github.io/blog/phd_student_job_advert/</link>
+      <pubDate>Thu, 22 Aug 2019 14:51:12 +0600</pubDate>
+      
+      <guid>https://pni-lab.github.io/blog/phd_student_job_advert/</guid>
+      <description>PhD-position We are currently seeking a PhD student (m/f/d)** in the field of “Machine learning / Deep learning for Neuroimaging”</description>
+    </item>
     
     <item>
       <title>The PNI junior research group is just about to start!</title>
